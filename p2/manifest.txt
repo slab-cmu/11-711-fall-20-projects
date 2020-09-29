@@ -1,0 +1,15 @@
+pset2.ipynb
+all_noun.preds
+most-common.preds
+hmm-dev-en.preds
+hmm-te-en.preds
+hmm-dev-nr.preds
+hmm-te-nr.preds
+bilstm-dev-en.preds
+bilstm-te-en.preds
+bakeoff-dev-en.preds
+bakeoff-te-en.preds
+bakeoff-dev-nr.preds
+bakeoff-te-nr.preds
+mynlplib/*.py
+pset2-writeup.pdf
