@@ -26,7 +26,7 @@ def test_mcc_tagger_output():
 def test_mcc_tagger_accuracy():
     global tagger_mc, all_tags
         
-    expected = 0.812
+    expected = 0.811124
 
     confusion = tagger_base.eval_tagger(tagger_mc,'most-common.preds',all_tags=all_tags)
     actual = scorer.accuracy(confusion)
