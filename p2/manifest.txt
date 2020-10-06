@@ -1,5 +1,5 @@
 pset2.ipynb
-all_noun.preds
+all_nouns.preds
 most-common.preds
 hmm-dev-en.preds
 hmm-te-en.preds
