@@ -1,0 +1,11 @@
+pset4.ipynb
+predictions/ff-dev.preds
+predictions/ff-test.preds
+predictions/nn-dev.preds
+predictions/nn-test.preds
+predictions/rules-dev.preds
+predictions/rules-test.preds
+predictions/bakeoff-dev.preds
+predictions/bakeoff-test.preds
+mynlplib/*.py
+pset4-writeup.pdf
